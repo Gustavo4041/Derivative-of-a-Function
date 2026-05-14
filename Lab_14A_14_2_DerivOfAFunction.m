@@ -23,6 +23,6 @@ subplot(2,1,2)
 plot(x(2:n-1),der,Color = 'r')
 xlim([0 10])
 grid on
-title("Derivative Function")
+title("Derivative of the Function")
 xlabel("Time (seconds)")
 ylabel("Distance (meters)")
